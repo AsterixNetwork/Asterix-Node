@@ -1,0 +1,10 @@
+/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/wasm32-unknown-unknown/release/deps/parity_util_mem-ba8eced5ec8c5fb6.rmeta: /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/lib.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/allocators.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/malloc_size.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/primitives_impls.rs
+
+/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/wasm32-unknown-unknown/release/deps/libparity_util_mem-ba8eced5ec8c5fb6.rlib: /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/lib.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/allocators.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/malloc_size.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/primitives_impls.rs
+
+/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/wasm32-unknown-unknown/release/deps/parity_util_mem-ba8eced5ec8c5fb6.d: /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/lib.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/allocators.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/malloc_size.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/primitives_impls.rs
+
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/lib.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/allocators.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/malloc_size.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.9.0/src/primitives_impls.rs:

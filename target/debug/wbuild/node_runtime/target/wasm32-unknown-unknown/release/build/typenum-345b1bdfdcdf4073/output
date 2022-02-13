@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/wasm32-unknown-unknown/release/build/typenum-345b1bdfdcdf4073/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/wasm32-unknown-unknown/release/build/typenum-345b1bdfdcdf4073/out/op.rs

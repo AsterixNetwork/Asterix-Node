@@ -1,0 +1,10 @@
+/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/release/deps/substrate_wasm_builder-c21a12d8f901b94c.rmeta: /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/lib.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/builder.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/prerequisites.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/wasm_project.rs
+
+/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/release/deps/libsubstrate_wasm_builder-c21a12d8f901b94c.rlib: /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/lib.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/builder.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/prerequisites.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/wasm_project.rs
+
+/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/release/deps/substrate_wasm_builder-c21a12d8f901b94c.d: /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/lib.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/builder.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/prerequisites.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/wasm_project.rs
+
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/lib.rs:
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/builder.rs:
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/prerequisites.rs:
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/wasm_project.rs:

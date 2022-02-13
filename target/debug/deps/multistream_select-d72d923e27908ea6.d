@@ -1,0 +1,11 @@
+/home/ash/substrate-simple-template/target/debug/deps/multistream_select-d72d923e27908ea6.rmeta: /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/lib.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/dialer_select.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/length_delimited.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/listener_select.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/negotiated.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/protocol.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/tests.rs
+
+/home/ash/substrate-simple-template/target/debug/deps/multistream_select-d72d923e27908ea6.d: /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/lib.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/dialer_select.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/length_delimited.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/listener_select.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/negotiated.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/protocol.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/tests.rs
+
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/lib.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/dialer_select.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/length_delimited.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/listener_select.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/negotiated.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/protocol.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/multistream-select-0.10.2/src/tests.rs:

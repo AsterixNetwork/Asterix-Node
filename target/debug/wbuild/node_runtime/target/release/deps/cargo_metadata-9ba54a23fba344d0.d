@@ -1,0 +1,11 @@
+/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/release/deps/cargo_metadata-9ba54a23fba344d0.rmeta: /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/lib.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/dependency.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/diagnostic.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/errors.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/messages.rs
+
+/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/release/deps/libcargo_metadata-9ba54a23fba344d0.rlib: /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/lib.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/dependency.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/diagnostic.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/errors.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/messages.rs
+
+/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/release/deps/cargo_metadata-9ba54a23fba344d0.d: /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/lib.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/dependency.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/diagnostic.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/errors.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/messages.rs
+
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/lib.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/dependency.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/diagnostic.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/errors.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/messages.rs:

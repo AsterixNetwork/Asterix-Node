@@ -1,0 +1,220 @@
+[0m[0m[1m[32m   Compiling[0m proc-macro2 v1.0.26
+[0m[0m[1m[32m   Compiling[0m unicode-xid v0.2.1
+[0m[0m[1m[32m   Compiling[0m syn v1.0.69
+[0m[0m[1m[32m   Compiling[0m serde_derive v1.0.124
+[0m[0m[1m[32m   Compiling[0m serde v1.0.124
+[0m[0m[1m[32m   Compiling[0m byteorder v1.3.4
+[0m[0m[1m[32m   Compiling[0m arrayvec v0.7.0
+[0m[0m[1m[32m   Compiling[0m byte-slice-cast v1.0.0
+[0m[0m[1m[32m   Compiling[0m log v0.4.14
+[0m[0m[1m[32m   Compiling[0m crunchy v0.2.2
+[0m[0m[1m[32m   Compiling[0m cfg-if v1.0.0
+[0m[0m[1m[32m   Compiling[0m memchr v2.3.4
+[0m[0m[1m[32m   Compiling[0m static_assertions v1.1.0
+[0m[0m[1m[32m   Compiling[0m once_cell v1.7.2
+[0m[0m[1m[32m   Compiling[0m autocfg v1.0.1
+[0m[0m[1m[32m   Compiling[0m pin-project-lite v0.2.6
+[0m[0m[1m[32m   Compiling[0m regex-syntax v0.6.22
+[0m[0m[1m[32m   Compiling[0m hex v0.4.3
+[0m[0m[1m[32m   Compiling[0m sp-std v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m ref-cast v1.0.6
+[0m[0m[1m[32m   Compiling[0m ahash v0.4.7
+[0m[0m[1m[32m   Compiling[0m lazy_static v1.4.0
+[0m[0m[1m[32m   Compiling[0m hash-db v0.15.2
+[0m[0m[1m[32m   Compiling[0m tracing-core v0.1.17
+[0m[0m[1m[32m   Compiling[0m parity-util-mem v0.9.0
+[0m[0m[1m[32m   Compiling[0m either v1.6.1
+[0m[0m[1m[32m   Compiling[0m paste v1.0.4
+[0m[0m[1m[32m   Compiling[0m bitflags v1.2.1
+[0m[0m[1m[32m   Compiling[0m smallvec v1.6.1
+[0m[0m[1m[32m   Compiling[0m arrayvec v0.4.12
+[0m[0m[1m[32m   Compiling[0m nodrop v0.1.14
+[0m[0m[1m[32m   Compiling[0m constant_time_eq v0.1.5
+[0m[0m[1m[32m   Compiling[0m libc v0.2.90
+[0m[0m[1m[32m   Compiling[0m typenum v1.12.0
+[0m[0m[1m[32m   Compiling[0m getrandom v0.2.2
+[0m[0m[1m[32m   Compiling[0m rand_core v0.5.1
+[0m[0m[1m[32m   Compiling[0m byte-tools v0.3.1
+[0m[0m[1m[32m   Compiling[0m ucd-trie v0.1.3
+[0m[0m[1m[32m   Compiling[0m ryu v1.0.5
+[0m[0m[1m[32m   Compiling[0m zstd-safe v3.0.1+zstd.1.4.9
+[0m[0m[1m[32m   Compiling[0m ppv-lite86 v0.2.10
+[0m[0m[1m[32m   Compiling[0m serde_json v1.0.64
+[0m[0m[1m[32m   Compiling[0m futures-core v0.3.13
+[0m[0m[1m[32m   Compiling[0m futures-sink v0.3.13
+[0m[0m[1m[32m   Compiling[0m camino v1.0.4
+[0m[0m[1m[32m   Compiling[0m subtle v2.4.0
+[0m[0m[1m[32m   Compiling[0m pin-utils v0.1.0
+[0m[0m[1m[32m   Compiling[0m fake-simd v0.1.2
+[0m[0m[1m[32m   Compiling[0m futures-task v0.3.13
+[0m[0m[1m[32m   Compiling[0m semver-parser v0.7.0
+[0m[0m[1m[32m   Compiling[0m keccak v0.1.0
+[0m[0m[1m[32m   Compiling[0m itoa v0.4.7
+[0m[0m[1m[32m   Compiling[0m opaque-debug v0.2.3
+[0m[0m[1m[32m   Compiling[0m arrayref v0.3.6
+[0m[0m[1m[32m   Compiling[0m arrayvec v0.5.2
+[0m[0m[1m[32m   Compiling[0m same-file v1.0.6
+[0m[0m[1m[32m   Compiling[0m remove_dir_all v0.5.3
+[0m[0m[1m[32m   Compiling[0m rustc-demangle v0.1.18
+[0m[0m[1m[32m   Compiling[0m futures-io v0.3.13
+[0m[0m[1m[32m   Compiling[0m parity-wasm v0.42.2
+[0m[0m[1m[32m   Compiling[0m ansi_term v0.12.1
+[0m[0m[1m[32m   Compiling[0m cfg-if v0.1.10
+[0m[0m[1m[32m   Compiling[0m safe-mix v1.0.1
+[0m[0m[1m[32m   Compiling[0m fixed-hash v0.7.0
+[0m[0m[1m[32m   Compiling[0m thread_local v1.1.3
+[0m[0m[1m[32m   Compiling[0m num-traits v0.2.14
+[0m[0m[1m[32m   Compiling[0m hashbrown v0.9.1
+[0m[0m[1m[32m   Compiling[0m trie-root v0.16.0
+[0m[0m[1m[32m   Compiling[0m tracing v0.1.25
+[0m[0m[1m[32m   Compiling[0m block-padding v0.1.5
+[0m[0m[1m[32m   Compiling[0m pest v2.1.3
+[0m[0m[1m[32m   Compiling[0m futures-channel v0.3.13
+[0m[0m[1m[32m   Compiling[0m futures-util v0.3.13
+[0m[0m[1m[32m   Compiling[0m semver v0.6.0
+[0m[0m[1m[32m   Compiling[0m walkdir v2.3.1
+[0m[0m[1m[32m   Compiling[0m ckb-merkle-mountain-range v0.3.1
+[0m[0m[1m[32m   Compiling[0m rand_chacha v0.2.2
+[0m[0m[1m[32m   Compiling[0m wasmi-validation v0.4.0
+[0m[0m[1m[32m   Compiling[0m build-helper v0.1.1
+[0m[0m[1m[32m   Compiling[0m semver-parser v0.10.2
+[0m[0m[1m[32m   Compiling[0m trie-db v0.22.3
+[0m[0m[1m[32m   Compiling[0m hash256-std-hasher v0.15.2
+[0m[0m[1m[32m   Compiling[0m uint v0.9.0
+[0m[0m[1m[32m   Compiling[0m pwasm-utils v0.17.0
+[0m[0m[1m[32m   Compiling[0m quote v1.0.9
+[0m[0m[1m[32m   Compiling[0m aho-corasick v0.7.15
+[0m[0m[1m[32m   Compiling[0m blake2-rfc v0.2.18
+[0m[0m[1m[32m   Compiling[0m futures v0.3.13
+[0m[0m[1m[32m   Compiling[0m parity-wasm v0.32.0
+[0m[0m[1m[32m   Compiling[0m jobserver v0.1.21
+[0m[0m[1m[32m   Compiling[0m atty v0.2.14
+[0m[0m[1m[32m   Compiling[0m generic-array v0.12.4
+[0m[0m[1m[32m   Compiling[0m cc v1.0.67
+[0m[0m[1m[32m   Compiling[0m regex v1.4.3
+[0m[0m[1m[32m   Compiling[0m rand_core v0.6.2
+[0m[0m[1m[32m   Compiling[0m digest v0.8.1
+[0m[0m[1m[32m   Compiling[0m block-buffer v0.7.3
+[0m[0m[1m[32m   Compiling[0m integer-sqrt v0.1.5
+[0m[0m[1m[32m   Compiling[0m rand_chacha v0.3.0
+[0m[0m[1m[32m   Compiling[0m wasm-gc-api v0.1.11
+[0m[0m[1m[32m   Compiling[0m sha2 v0.8.2
+[0m[0m[1m[32m   Compiling[0m Inflector v0.11.4
+[0m[0m[1m[32m   Compiling[0m rand v0.8.3
+[0m[0m[1m[32m   Compiling[0m zstd-sys v1.4.20+zstd.1.4.9
+[0m[0m[1m[32m   Compiling[0m tempfile v3.2.0
+[0m[0m[1m[32m   Compiling[0m synstructure v0.12.4
+[0m[0m[1m[32m   Compiling[0m thiserror-impl v1.0.24
+[0m[0m[1m[32m   Compiling[0m zeroize_derive v1.0.1
+[0m[0m[1m[32m   Compiling[0m impl-trait-for-tuples v0.2.1
+[0m[0m[1m[32m   Compiling[0m sp-debug-derive v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m ref-cast-impl v1.0.6
+[0m[0m[1m[32m   Compiling[0m parity-util-mem-derive v0.1.0
+[0m[0m[1m[32m   Compiling[0m frame-support-procedural-tools-derive v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m enumflags2_derive v0.6.4
+[0m[0m[1m[32m   Compiling[0m pallet-contracts-proc-macro v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m zeroize v1.2.0
+[0m[0m[1m[32m   Compiling[0m thiserror v1.0.24
+[0m[0m[1m[32m   Compiling[0m secrecy v0.7.0
+[0m[0m[1m[32m   Compiling[0m curve25519-dalek v2.1.2
+[0m[0m[1m[32m   Compiling[0m merlin v2.0.1
+[0m[0m[1m[32m   Compiling[0m schnorrkel v0.9.1
+[0m[0m[1m[32m   Compiling[0m enumflags2 v0.6.4
+[0m[0m[1m[32m   Compiling[0m zstd v0.6.1+zstd.1.4.9
+[0m[0m[1m[32m   Compiling[0m toml v0.5.8
+[0m[0m[1m[32m   Compiling[0m cargo-platform v0.1.1
+[0m[0m[1m[32m   Compiling[0m semver v0.11.0
+[0m[0m[1m[32m   Compiling[0m sp-maybe-compressed-blob v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m cargo_metadata v0.13.1
+[0m[0m[1m[32m   Compiling[0m proc-macro-crate v0.1.5
+[0m[0m[1m[32m   Compiling[0m proc-macro-crate v1.0.0
+[0m[0m[1m[32m   Compiling[0m frame-support-procedural-tools v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m parity-scale-codec-derive v2.1.0
+[0m[0m[1m[32m   Compiling[0m sp-runtime-interface-proc-macro v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-api-proc-macro v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-npos-elections-compact v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-staking-reward-curve v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m frame-support-procedural v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m substrate-wasm-builder v4.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m parity-scale-codec v2.1.0
+[0m[0m[1m[32m   Compiling[0m impl-codec v0.5.0
+[0m[0m[1m[32m   Compiling[0m sp-wasm-interface v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-storage v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-tracing v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-arithmetic v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m finality-grandpa v0.14.0
+[0m[0m[1m[32m   Compiling[0m primitive-types v0.9.0
+[0m[0m[1m[32m   Compiling[0m node_runtime v2.0.1 (/home/ash/substrate-simple-template/node/runtime)
+[0m[0m[1m[32m   Compiling[0m sp-runtime-interface v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m memory-db v0.26.0
+[0m[0m[1m[32m   Compiling[0m sp-core v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-io v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-inherents v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m frame-metadata v13.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-trie v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-npos-elections v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-application-crypto v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-sandbox v0.9.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-runtime v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-version v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-staking v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-authorship v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-consensus-slots v0.9.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-contracts-primitives v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-consensus-vrf v0.9.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m frame-support v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-api v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-timestamp v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-session v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-authority-discovery v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-finality-grandpa v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-contracts-rpc-runtime-api v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-transaction-pool v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-offchain v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m frame-system-rpc-runtime-api v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-block-builder v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m sp-consensus-babe v0.9.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m frame-system v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-timestamp v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-balances v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-authorship v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m frame-election-provider-support v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-mmr-primitives v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-transaction-payment v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-identity v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m frame-executive v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-membership v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-recovery v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-vesting v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-elections-phragmen v4.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-sudo v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-society v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-collective v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-utility v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-democracy v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-assets v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-scheduler v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-lottery v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-indices v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-template v3.0.0 (/home/ash/substrate-simple-template/pallets/template)
+[0m[0m[1m[32m   Compiling[0m pallet-randomness-collective-flip v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-contracts v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-gilt v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-multisig v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m node-primitives v2.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-proxy v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-election-provider-multi-phase v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-mmr v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-session v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-transaction-payment-rpc-runtime-api v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-treasury v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-offences v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-im-online v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-tips v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-bounties v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-staking v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-grandpa v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-authority-discovery v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m pallet-babe v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m node_runtime-wasm v1.0.0 (/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime)
+[0m[0m[1m[32m    Finished[0m release [optimized] target(s) in 4m 43s

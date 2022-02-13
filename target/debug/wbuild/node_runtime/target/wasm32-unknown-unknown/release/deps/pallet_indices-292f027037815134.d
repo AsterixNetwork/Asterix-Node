@@ -1,0 +1,11 @@
+/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/wasm32-unknown-unknown/release/deps/pallet_indices-292f027037815134.rmeta: /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/lib.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/mock.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/tests.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/benchmarking.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/weights.rs
+
+/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/wasm32-unknown-unknown/release/deps/libpallet_indices-292f027037815134.rlib: /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/lib.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/mock.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/tests.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/benchmarking.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/weights.rs
+
+/home/ash/substrate-simple-template/target/debug/wbuild/node_runtime/target/wasm32-unknown-unknown/release/deps/pallet_indices-292f027037815134.d: /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/lib.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/mock.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/tests.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/benchmarking.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/weights.rs
+
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/lib.rs:
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/mock.rs:
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/tests.rs:
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/benchmarking.rs:
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/indices/src/weights.rs:

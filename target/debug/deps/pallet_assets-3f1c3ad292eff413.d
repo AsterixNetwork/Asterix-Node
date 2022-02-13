@@ -1,0 +1,11 @@
+/home/ash/substrate-simple-template/target/debug/deps/pallet_assets-3f1c3ad292eff413.rmeta: /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/lib.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/weights.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/extra_mutator.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/impl_stored_map.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/impl_fungibles.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/functions.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/types.rs
+
+/home/ash/substrate-simple-template/target/debug/deps/pallet_assets-3f1c3ad292eff413.d: /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/lib.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/weights.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/extra_mutator.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/impl_stored_map.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/impl_fungibles.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/functions.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/types.rs
+
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/lib.rs:
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/weights.rs:
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/extra_mutator.rs:
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/impl_stored_map.rs:
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/impl_fungibles.rs:
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/functions.rs:
+/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/assets/src/types.rs:

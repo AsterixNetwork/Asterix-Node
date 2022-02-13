@@ -1,0 +1,23 @@
+[dependencies.wasm-project]
+default-features = false
+features = []
+package = 'node_runtime'
+path = '/home/ash/substrate-simple-template/node/runtime'
+
+[lib]
+crate-type = ['cdylib']
+name = 'node_runtime'
+
+[package]
+edition = '2018'
+name = 'node_runtime-wasm'
+resolver = '2'
+version = '1.0.0'
+[profile.dev]
+panic = 'abort'
+
+[profile.release]
+lto = true
+panic = 'abort'
+
+[workspace]

@@ -1,0 +1,13 @@
+/home/ash/substrate-simple-template/target/debug/deps/quote-a7684d5c37a0a739.rmeta: /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/home/ash/substrate-simple-template/target/debug/deps/libquote-a7684d5c37a0a739.rlib: /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/home/ash/substrate-simple-template/target/debug/deps/quote-a7684d5c37a0a739.d: /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs:
+/home/ash/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs:
