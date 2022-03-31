@@ -3,7 +3,7 @@
   "id": "celestial_testnet",
   "chainType": "Live",
   "bootNodes": [
-    "/ip4/127.0.0.1/tcp/30333/p2p/12D3KooWQyBiFENzbPr9joiLoPa1StEbqdsrB5Exre2uib4MuEky"
+    "/ip4/143.110.177.163/tcp/30333/p2p/12D3KooWQyBiFENzbPr9joiLoPa1StEbqdsrB5Exre2uib4MuEky"
   ],
   "telemetryEndpoints": [
     [
