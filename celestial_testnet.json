@@ -1,9 +1,9 @@
 {
   "name": "Celestial Testnet",
   "id": "celestial_testnet",
-  "chainType": "Live",
+  "chainType": "Development",
   "bootNodes": [
-    "/ip4/127.0.0.1/tcp/30333/p2p/12D3KooWPbSbos6YxDngNy6r6JqRzVyi7fdJkGXpyygPMzrhSoGd"
+    "/ip4/143.110.177.163/tcp/30333/p2p/12D3KooWQyBiFENzbPr9joiLoPa1StEbqdsrB5Exre2uib4MuEky"
   ],
   "telemetryEndpoints": [
     [

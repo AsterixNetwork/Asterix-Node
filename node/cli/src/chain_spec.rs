@@ -64,10 +64,14 @@ pub type ChainSpec = sc_service::GenericChainSpec<
 	GenesisConfig,
 	Extensions,
 >;
-/// Asterix testnet generator
-// pub fn celestial_testnet_config() -> Result<ChainSpec, String> {
-//	ChainSpec::from_json_bytes(&include_bytes!("../celestial_testnet1-raw.json")[..])}
 
+//Celestial Testnet
+pub fn asterix_celestial_testnet() -> ChainSpec {
+	match ChainSpec::from_json_bytes(&include_bytes!("../celestial_testnet.json")[..]) {
+		Ok(spec) => spec,
+		Err(e) => panic!("{}", e),
+	}
+}
 
 fn session_keys(
 	grandpa: GrandpaId,
