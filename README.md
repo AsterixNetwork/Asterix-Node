@@ -23,5 +23,5 @@ cargo build --release
 ```
 To start up the Asterix node and connect to the Celestial testnet, run:
 ```
-./target/release/asterix --chain=staging --name <INSERT_NAME>
+./target/release/asterix --chain=celestial --name <INSERT_NAME>
 ```
