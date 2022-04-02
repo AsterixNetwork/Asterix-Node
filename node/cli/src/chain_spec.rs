@@ -67,7 +67,7 @@ pub type ChainSpec = sc_service::GenericChainSpec<
 
 //Celestial Testnet
 pub fn asterix_celestial_testnet() -> ChainSpec {
-	match ChainSpec::from_json_bytes(&include_bytes!("../celestial_testnet.json")[..]) {
+	match ChainSpec::from_json_bytes(&include_bytes!("celestial_testnet.json")[..]) {
 		Ok(spec) => spec,
 		Err(e) => panic!("{}", e),
 	}
