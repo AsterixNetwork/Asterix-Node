@@ -1,0 +1,8 @@
+Dockerfile
+.git
+.github
+.gitignore
+.gitattributes
+target
+tmp
+node/executor/tests

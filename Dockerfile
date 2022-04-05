@@ -1,27 +1,24 @@
-#FROM paritytech/ci-linux:production as builder
-FROM alpine
+FROM paritytech/ci-linux:production as builder
 
-LABEL description="This is the build stage for asterix. Here we create the binary."
+LABEL description="This is the build stage for asterix-node. Here we create the binary."
 
 ARG PROFILE=release
-WORKDIR /asterix
+WORKDIR /asterix-node
 
-COPY . /asterix/
+COPY . /asterix-node/
 #RUN  fallocate -l 1G /swapfile
-RUN rustup uninstall nightly
 RUN rustup install nightly-2021-03-01
-RUN rustup update nightly
 RUN rustup target add wasm32-unknown-unknown --toolchain nightly-2021-03-01
 
 
-RUN cargo build --$PROFILE -j 1
+RUN cargo +nightly-2021-03-01 build --$PROFILE 
 
 # ===== SECOND STAGE ======
 
 FROM debian:buster-slim
-LABEL description="This is the 2nd stage: a very small image where we copy the asterix binary."
+LABEL description="This is the 2nd stage: a very small image where we copy the asterix-node binary."
 ARG PROFILE=release
-COPY --from=builder /asterix/target/$PROFILE/asterix /usr/local/bin
+COPY --from=builder /asterix-node/target/$PROFILE/asterix /usr/local/bin
 
 RUN useradd -m -u 1000 -U -s /bin/sh -d /asterix asterix && \
 	mkdir -p /asterix/.local/share && \

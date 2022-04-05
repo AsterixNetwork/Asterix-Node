@@ -1,0 +1,14 @@
+version: '1.0.1'
+services:
+  edgeware:
+    image: asterixnetwork/asterix:v1.0.1
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100M"
+        max-file: "2"
+    ports:
+      - "127.0.0.1:9933:9933"
+      - "127.0.0.1:9944:9944"
+      - "127.0.0.1:30333:30333"
+    command: ['--dev', '--ws-external', '--rpc-external', '--rpc-cors', 'all', '--rpc-methods=Unsafe']
