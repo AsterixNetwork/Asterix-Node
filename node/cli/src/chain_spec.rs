@@ -31,7 +31,6 @@ use asterix_node_runtime::Block;
 use asterix_node_runtime::constants::currency::*;
 use sc_service::ChainType;
 use hex_literal::hex;
-use serde_json::Result;
 use sc_telemetry::TelemetryEndpoints;
 use grandpa_primitives::{AuthorityId as GrandpaId};
 use sp_consensus_babe::{AuthorityId as BabeId};
@@ -65,7 +64,7 @@ pub type ChainSpec = sc_service::GenericChainSpec<
 	Extensions,
 >;
 
-//Celestial Testnet
+///Celestial Testnet
 pub fn asterix_celestial_testnet() -> ChainSpec {
 	match ChainSpec::from_json_bytes(&include_bytes!("celestial_testnet.json")[..]) {
 		Ok(spec) => spec,
