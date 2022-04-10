@@ -1,6 +1,6 @@
 version: '1.0.1'
 services:
-  edgeware:
+  asterix:
     image: asterixnetwork/asterix:v1.0.1
     logging:
       driver: "json-file"
