@@ -11,4 +11,4 @@ services:
       - "127.0.0.1:9933:9933"
       - "127.0.0.1:9944:9944"
       - "127.0.0.1:30333:30333"
-    command: ['--dev', '--ws-external', '--rpc-external', '--rpc-cors', 'all', '--rpc-methods=Unsafe']
+    command: ['--chain', '/node/cli/src/celestial_testnet-raw.json', '--name', 'docker_compose_mainnet', '--ws-external', '--rpc-external', '--rpc-cors', 'all' ]
