@@ -64,14 +64,6 @@ pub type ChainSpec = sc_service::GenericChainSpec<
 	Extensions,
 >;
 
-///Celestial Testnet
-pub fn asterix_celestial_testnet() -> ChainSpec {
-	match ChainSpec::from_json_bytes(&include_bytes!("celestial_testnet.json")[..]) {
-		Ok(spec) => spec,
-		Err(e) => panic!("{}", e),
-	}
-}
-
 fn session_keys(
 	grandpa: GrandpaId,
 	babe: BabeId,
@@ -81,7 +73,7 @@ fn session_keys(
 	SessionKeys { grandpa, babe, im_online, authority_discovery }
 }
 
-fn staging_testnet_config_genesis() -> GenesisConfig {
+fn celestial_testnet_config_genesis() -> GenesisConfig {
 
 
 	let initial_authorities: Vec<(AccountId, AccountId, GrandpaId, BabeId, ImOnlineId, AuthorityDiscoveryId)> = vec![
@@ -142,8 +134,8 @@ hex!["be2d84184775dc2f95b6853d0a4d23a847d376ba754e3cfbbd40925c7d9a4a36"].uncheck
 	testnet_genesis(initial_authorities, vec![], root_key, Some(endowed_accounts), false)
 }
 
-/// Staging testnet config.
-pub fn staging_testnet_config() -> ChainSpec {
+/// Celestial testnet config.
+pub fn celestial_testnet_config() -> ChainSpec {
 	let data = r#"
 			{
 				"ss58Format": 42,
@@ -151,15 +143,19 @@ pub fn staging_testnet_config() -> ChainSpec {
 				"tokenSymbol": "ERX"
 			}"#;
 	let properties = serde_json::from_str(data).unwrap();
-	let boot_nodes = vec![];
+	let boot_nodes = vec![
+		"/ip4/13.234.64.203/tcp/30333/p2p/12D3KooWQyBiFENzbPr9joiLoPa1StEbqdsrB5Exre2uib4MuEky"
+			.parse()
+			.unwrap(),
+	];
 	ChainSpec::from_genesis(
-		"Staging Testnet",
-		"staging_testnet",
+		"Celestial Testnet",
+		"celestial_testnet",
 		ChainType::Live,
-		staging_testnet_config_genesis,
+		celestial_testnet_config_genesis,
 		boot_nodes,
 		Some(TelemetryEndpoints::new(vec![(STAGING_TELEMETRY_URL.to_string(), 0)])
-			.expect("Staging telemetry url is valid; qed")),
+			.expect("Celestial telemetry url is valid; qed")),
 		Some(DEFAULT_PROTOCOL_ID),
 		properties,
 		Default::default(),
@@ -483,7 +479,7 @@ pub(crate) mod tests {
 	}
 
 	#[test]
-	fn test_staging_test_net_chain_spec() {
-		staging_testnet_config().build_storage().unwrap();
+	fn test_celestial_test_net_chain_spec() {
+		celestial_testnet_config().build_storage().unwrap();
 	}
 }

@@ -4079,6 +4079,24 @@ dependencies = [
 [[package]]
 name = "node-executor"
 version = "2.0.0"
+source = "git+https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc86cdef0cba09336acffb08bff08540aa"
+dependencies = [
+ "frame-benchmarking",
+ "node-primitives",
+ "node-runtime",
+ "parity-scale-codec",
+ "sc-executor",
+ "sp-core",
+ "sp-io",
+ "sp-keystore",
+ "sp-state-machine",
+ "sp-trie",
+ "trie-root",
+]
+
+[[package]]
+name = "node-executor"
+version = "2.0.0"
 dependencies = [
  "asterix_node_runtime",
  "criterion",
@@ -4111,24 +4129,6 @@ dependencies = [
  "substrate-test-client",
  "trie-root",
  "wat",
-]
-
-[[package]]
-name = "node-executor"
-version = "2.0.0"
-source = "git+https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc86cdef0cba09336acffb08bff08540aa"
-dependencies = [
- "frame-benchmarking",
- "node-primitives",
- "node-runtime",
- "parity-scale-codec",
- "sc-executor",
- "sp-core",
- "sp-io",
- "sp-keystore",
- "sp-state-machine",
- "sp-trie",
- "trie-root",
 ]
 
 [[package]]

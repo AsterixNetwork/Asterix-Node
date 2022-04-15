@@ -1,13 +1,13 @@
 {
   "name": "Celestial Testnet",
   "id": "celestial_testnet",
-  "chainType": "Live",
+  "chainType": "Development",
   "bootNodes": [
-    "/ip4/143.110.177.163/tcp/30333/p2p/12D3KooWQyBiFENzbPr9joiLoPa1StEbqdsrB5Exre2uib4MuEky"
+    "/ip4/13.234.64.203/tcp/30333/p2p/12D3KooWQyBiFENzbPr9joiLoPa1StEbqdsrB5Exre2uib4MuEky"
   ],
   "telemetryEndpoints": [
     [
-      "/dns/telemetry.polkadot.io/tcp/443/x-parity-wss/%2Fsubmit%2F",
+      "wss://telemetry.polkadot.io/submit/",
       0
     ]
   ],
