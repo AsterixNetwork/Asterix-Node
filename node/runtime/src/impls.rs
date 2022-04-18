@@ -140,7 +140,7 @@ mod multiplier_tests {
 
 	#[test]
 	fn time_to_reach_zero() {
-		// blocks per 24h in substrate-node: 28,800 (k)
+		// blocks per 24h in asterix-node: 28,800 (k)
 		// s* = 0.1875
 		// The bound from the research in an empty chain is:
 		// v <~ (p / k(0 - s*))

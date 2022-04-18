@@ -64,6 +64,14 @@ pub type ChainSpec = sc_service::GenericChainSpec<
 	Extensions,
 >;
 
+/// Celestial Testnet configuration
+pub fn celestial_testnet() -> ChainSpec {
+	match ChainSpec::from_json_bytes(&include_bytes!("../res/celestialTestnet.json")[..]) {
+		Ok(spec) => spec,
+		Err(e) => panic!("{}", e),
+	}
+}
+
 fn session_keys(
 	grandpa: GrandpaId,
 	babe: BabeId,
