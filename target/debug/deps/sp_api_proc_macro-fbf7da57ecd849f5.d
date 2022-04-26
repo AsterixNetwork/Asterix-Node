@@ -1,9 +1,0 @@
-/home/ash/substrate-simple-template/target/debug/deps/libsp_api_proc_macro-fbf7da57ecd849f5.so: /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/lib.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/impl_runtime_apis.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/mock_impl_runtime_apis.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/decl_runtime_apis.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/utils.rs
-
-/home/ash/substrate-simple-template/target/debug/deps/sp_api_proc_macro-fbf7da57ecd849f5.d: /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/lib.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/impl_runtime_apis.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/mock_impl_runtime_apis.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/decl_runtime_apis.rs /home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/utils.rs
-
-/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/lib.rs:
-/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/impl_runtime_apis.rs:
-/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/mock_impl_runtime_apis.rs:
-/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/decl_runtime_apis.rs:
-/home/ash/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/api/proc-macro/src/utils.rs:

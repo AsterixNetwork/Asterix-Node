@@ -1,7 +1,7 @@
-version: '1.0.1'
+version: '2.0.0'
 services:
   asterix:
-    image: asterixnetwork/asterix:v1.0.1
+    image: asterixnetwork/asterix:v2.0.0
     logging:
       driver: "json-file"
       options:

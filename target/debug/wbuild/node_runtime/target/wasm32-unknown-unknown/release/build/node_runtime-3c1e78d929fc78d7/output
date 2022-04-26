@@ -1,3 +1,0 @@
-cargo:rerun-if-env-changed=SKIP_WASM_BUILD
-cargo:rerun-if-env-changed=FORCE_WASM_BUILD
-cargo:rerun-if-env-changed=SKIP_NODE_RUNTIME_WASM_BUILD
